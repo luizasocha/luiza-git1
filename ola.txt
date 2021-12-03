@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bom dia!
 o sol ja nasceu la na fazendinha
+=======
+bom dia o sol ja nasceu la na fazendinha
+>>>>>>> newbranch
